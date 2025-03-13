@@ -1,0 +1,7 @@
+{
+  "name": "clevenshtein",
+  "version-string": "1.0.1",
+  "description": "CLevenshtein is a C library for calculating Levenshtein distance between two char sequences.",
+  "homepage": "https://github.com/depotpkg/clevenshtein",
+  "license": "MIT"
+}
