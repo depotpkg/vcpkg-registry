@@ -3,6 +3,10 @@
     "clevenshtein": {
       "baseline": "1.0.2",
       "port-version": 0
+    },
+    "pgetopt": {
+      "baseline": "1.0.0",
+      "port-version": 0
     }
   }
 }
