@@ -1,0 +1,17 @@
+{
+  "name": "pgetopt",
+  "version": "1.0.0",
+  "description": "pgetopt is a fully portable GNU getopt implementation.",
+  "homepage": "https://github.com/depotpkg/pgetopt",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
